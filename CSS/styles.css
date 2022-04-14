@@ -4,6 +4,7 @@ body{
 }
 #bienvenida{
     text-align: left;
+    font-weight: bolder;
 }
 .somos{
     font-family: 'Secular One', sans-serif;
